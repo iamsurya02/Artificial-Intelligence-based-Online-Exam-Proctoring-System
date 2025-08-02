@@ -38,3 +38,47 @@ This project is a **real-time AI-powered proctoring system** built to ensure int
                          +--> [MySQL for Auth]
                          |
                          +--> [Firebase for Violation Logging]
+
+
+```
+
+## ⚙️ Technologies Used
+
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks:** Flask (backend), Bootstrap (UI)  
+- **Libraries:** OpenCV, Dlib, TensorFlow Lite, PyAudio, bcrypt  
+- **Database:** MySQL  
+- **Cloud Services:** Firebase Realtime Database  
+
+---
+
+## 📈 Results Summary
+
+| Feature                   | Accuracy |
+|---------------------------|----------|
+| Face Detection            | 94%      |
+| Gaze Tracking             | 90%      |
+| Head Pose Estimation      | 92%      |
+| Object Detection (YOLO)   | 85%      |
+| Overall Proctoring Engine | 92%      |
+
+- Average of **1.8 violations per user** detected  
+- Full violation logs stored with **timestamps + snapshots**  
+- All user scores logged automatically in Firebase  
+
+---
+
+## 🚀 Future Enhancements
+
+- 🎙️ Add voice activity detection  
+- 🧠 Behavioral scoring model (e.g., cheat probability)  
+- 🛡️ Biometric login (face or fingerprint auth)  
+- 📲 Mobile browser detection & system-level event hooks  
+
+---
+
+## 📬 Contact
+
+- **Surya Narayana Reddy**  
+📧 g.suryareddy2004@gmail.com  
+🌐 [GitHub Profile](https://github.com/iamsurya02)
