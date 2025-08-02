@@ -6,9 +6,9 @@ This project is a **real-time AI-powered proctoring system** built to ensure int
 
 ## 👨‍💻 Developed By
 
-- **P. Puneeth** – bl.en.u4cse22142@bl.students.amrita.edu  
-- **G. Surya Narayana Reddy** – bl.en.u4cse22113@bl.students.amrita.edu  
-- **P. Satwika Chowdary** – bl.en.u4cse22139@bl.students.amrita.edu  
+- **G. Surya Narayana Reddy** – bl.en.u4cse*****@bl.students.amrita.edu  
+- **P. Puneeth** – bl.en.u4cse*****@bl.students.amrita.edu 
+- **P. Satwika Chowdary** – bl.en.u4cse*****@bl.students.amrita.edu 
 - **Mentor:** *Kavitha C.R.*, Amrita Vishwa Vidyapeetham
 
 ---
